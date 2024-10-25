@@ -11,3 +11,8 @@ h2 {
   color: light grey;
   text align: center;
 }
+
+img {
+  height: 150px;
+  weight: 100px;
+}
